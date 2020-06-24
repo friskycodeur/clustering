@@ -18,7 +18,7 @@ All the steps are already written in the along with the code in the notebook !
 
 ### Note :
 If you do come across any doubts or problem feel free to ask!
-[LinkedIn](https://www.linkedin.com/in/friskycodeur/)
-[Twitter](https://twitter.com/moodyarrow)
+* [LinkedIn](https://www.linkedin.com/in/friskycodeur/)
+* [Twitter](https://twitter.com/moodyarrow)
 
 ### If you like this repository , don't foget to star ⭐ it ! 
