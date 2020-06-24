@@ -1,4 +1,4 @@
-# K-means-clustering on Customer Data
+# Clustering on Customer Data
 ### Libraries Required
 * Numpy
 * Pandas
@@ -11,6 +11,7 @@ For installing any of the libraries use the following code : (replace library_na
 ### Pre-requisites 
 * Plotting with Matplotlib
 * K-means-Clustering
+* Hierarchical Clustering
 
 ## Steps for making this project : 
 
